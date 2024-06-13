@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/J0ssel1n/KaJo-Capture/blob/main/Ressources/logo.png?raw=true" alt="drawing" width="500"/>
+  <img src="https://github.com/CodeBreton/KaJo-Capture/blob/main/Ressources/logo.png?raw=true" alt="drawing" width="500"/>
 </p>
 
 <p align="center">
